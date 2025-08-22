@@ -1,4 +1,6 @@
-public class UnderGraduatedStudent extends Student{
+package Assignment5;
+
+public class UnderGraduatedStudent extends Student {
     public String major;
     public int year;
 

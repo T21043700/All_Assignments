@@ -1,4 +1,6 @@
-public class GraduateStudent extends Student{
+package Assignment5;
+
+public class GraduateStudent extends Student {
     public int graduationYear;
 
     public GraduateStudent(String name, int age, String studentId, char grade, int graduationYear ){

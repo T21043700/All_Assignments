@@ -1,4 +1,4 @@
-package InterfaceDemo;
+package Assignment6.Polymorphism_Abstraction_Interface.InterfaceDemo;
 
 public class Cow implements Animal{
 

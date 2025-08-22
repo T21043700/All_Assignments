@@ -1,3 +1,5 @@
+package Assignment5;
+
 public class Student extends Person{
     public String studentId;
     public char grade;

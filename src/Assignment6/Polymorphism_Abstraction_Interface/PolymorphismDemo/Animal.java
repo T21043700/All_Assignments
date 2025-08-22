@@ -1,4 +1,4 @@
-package PolymorphismDemo;
+package Assignment6.Polymorphism_Abstraction_Interface.PolymorphismDemo;
 
 public class Animal {
     public void makeSound(){

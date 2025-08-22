@@ -1,4 +1,4 @@
-package AbstractionDemo;
+package Assignment6.Polymorphism_Abstraction_Interface.AbstractionDemo;
 
 public class Horse extends Animal{
 

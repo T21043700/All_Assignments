@@ -1,4 +1,6 @@
-public class Admin extends Person{
+package Assignment5;
+
+public class Admin extends Person {
     public String adminId;
     public String department;
 
